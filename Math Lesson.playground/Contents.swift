@@ -29,3 +29,23 @@ Double(age) * weight
 
 age * Int(weight)
 
+var coolText = ""
+
+Double("5")! + Double("78")!
+
+coolText = String (Double("5")! + Double("78")!)
+
+//we could string interpolation
+
+coolText = "Answer is... \(Double("5")! + Double("78")!)"
+
+"My age is \(age)"
+
+
+
+
+
+
+
+
+
