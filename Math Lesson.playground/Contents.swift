@@ -42,6 +42,23 @@ coolText = "Answer is... \(Double("5")! + Double("78")!)"
 "My age is \(age)"
 
 
+var candy :String = "100 Grand" //string - known as text
+var maddieweight :Double = 192.4 //double
+var maddieage : Int = 25 //int
+
+//Boolean is something that's true or false another type that we see. Works great with if statements
+
+var sunny :Bool = true
+
+if sunny {
+    print( "It's sunny")
+} else {
+    print("Not Sunny")
+}
+
+
+
+
 
 
 
